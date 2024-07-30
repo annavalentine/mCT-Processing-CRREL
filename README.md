@@ -1,5 +1,5 @@
 # CRREL
-Intern @ Cold Regions Research &amp; Engineering Lab Work
+Cold Regions Research &amp; Engineering Lab 
 
 
 ### I need to edit this for coherency, this is vars I found in an email: 
